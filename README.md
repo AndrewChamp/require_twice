@@ -1,7 +1,7 @@
 require_twice()
 =============
 
-When "requiring_once()" isn't good enough for a #brogrammer
+When "require_once()" isn't good enough for a #brogrammer
 
 ##How to use
 ```php
