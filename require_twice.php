@@ -3,7 +3,7 @@
 		$i=0;
 		while($i <= 1):
 			$i++;
-			require($file);
+			include($file);
 		endwhile;
 	}
 ?>
